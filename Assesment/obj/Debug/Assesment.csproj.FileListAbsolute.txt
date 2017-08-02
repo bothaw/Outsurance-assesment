@@ -1,0 +1,7 @@
+C:\Development\Playground\OutSurance\Assesment\bin\Debug\Assesment.exe.config
+C:\Development\Playground\OutSurance\Assesment\bin\Debug\Assesment.exe
+C:\Development\Playground\OutSurance\Assesment\bin\Debug\Assesment.pdb
+C:\Development\Playground\OutSurance\Assesment\obj\Debug\Assesment.exe
+C:\Development\Playground\OutSurance\Assesment\obj\Debug\Assesment.pdb
+C:\Development\Playground\OutSurance\Assesment\bin\Debug\Resource\data.csv
+C:\Development\Playground\OutSurance\Assesment\obj\Debug\Assesment.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Development\Playground\OutSurance\Test\bin\Debug\Test.dll
+C:\Development\Playground\OutSurance\Test\bin\Debug\Test.pdb
+C:\Development\Playground\OutSurance\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\Playground\OutSurance\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Development\Playground\OutSurance\Test\obj\Debug\Test.dll
+C:\Development\Playground\OutSurance\Test\obj\Debug\Test.pdb
+C:\Development\Playground\OutSurance\Test\bin\Debug\Resource\data.csv
+C:\Development\Playground\OutSurance\Test\bin\Debug\Assesment.exe
+C:\Development\Playground\OutSurance\Test\bin\Debug\Assesment.pdb
